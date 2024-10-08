@@ -1,0 +1,3 @@
+Toy{id='3', name='Car', weight=20}
+Toy{id='1', name='Robot', weight=10}
+Toy{id='2', name='Doll', weight=5}
